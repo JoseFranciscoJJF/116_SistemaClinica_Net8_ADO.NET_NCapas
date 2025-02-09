@@ -1,0 +1,63 @@
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.deps.json
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.dll
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.pdb
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaD.A5F7B8D1.Up2Date
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.dll
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\ClinicaData.dll
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.pdb
+E:\WorkSpaceAD\YOUTUBE\116 SISTEMA DE CITAS MEDICAS NET 8\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.deps.json
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfoInputs.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfo.cs
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.sourcelink.json
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaD.A5F7B8D1.Up2Date
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\116_SistemaClinica_Net8_ADO.NET_NCapas\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.deps.json
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfoInputs.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfo.cs
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.sourcelink.json
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaD.A5F7B8D1.Up2Date
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.deps.json
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\bin\Debug\net8.0\ClinicaData.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.AssemblyReference.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfoInputs.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.AssemblyInfo.cs
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.csproj.CoreCompileInputs.cache
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.sourcelink.json
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaD.A5F7B8D1.Up2Date
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\refint\ClinicaData.dll
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ClinicaData.pdb
+C:\Users\josej\Documents\Visual Studio 2022\Projects\Work\SistemaClinica_Net8_ADO.NET_NCapas - Cópia\SistemaDeClinica\ClinicaData\obj\Debug\net8.0\ref\ClinicaData.dll

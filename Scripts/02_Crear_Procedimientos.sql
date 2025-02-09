@@ -71,7 +71,7 @@ begin
 		insert into Usuario(NumeroDocumentoIdentidad,Nombre,Apellido,Correo,Clave,IdRolUsuario) values
 		(@NumeroDocumentoIdentidad,@Nombre,@Apellido,@Correo,@Clave,@IdRolUsuario)
 	else
-		set @MsgError = 'El usuario ya existe'
+		set @MsgError = 'O usuário já existe.'
 end
 
 go
@@ -100,7 +100,7 @@ begin
 		IdRolUsuario = @IdRolUsuario
 		where IdUsuario = @IdUsuario
 	else
-		set @MsgError = 'El usuario ya existe'
+		set @MsgError = 'O usuário já existe.'
 end
 
 go
@@ -154,7 +154,7 @@ begin
 	if(not exists(select IdEspecialidad from Especialidad where Nombre = @Nombre))
 		insert into Especialidad(Nombre) values(@Nombre)
 	else
-		set @msgError = 'La especialidad ya existe'
+		set @msgError = 'A especialidade já existe.'
 end
 
 go
@@ -174,7 +174,7 @@ begin
 		Nombre = @Nombre
 		where IdEspecialidad = @IdEspecialidad
 	else
-		set @msgError = 'La especialidad ya existe'
+		set @msgError = 'A especialidade já existe.'
 end
 
 go
@@ -229,7 +229,7 @@ begin
 
 	end
 	else
-		set @msgError = 'El doctor ya existe'
+		set @msgError = 'O doutor já existe.'
 end
 
 go
@@ -257,7 +257,7 @@ begin
 		IdEspecialidad = @IdEspecialidad
 		where IdDoctor = @IdDoctor
 	else
-		set @msgError = 'El doctor ya existe'
+		set @msgError = 'O doutor já existe.'
 end
 
 go
@@ -317,12 +317,12 @@ begin
 			left join dbo.SplitString(@NumeroMes, ',') b on convert(int, month(convert(date,a.valor))) =  b.valor
 			where b.valor is null))
 			begin
-				set @msgError = 'Todas las fechas deben estar dentro del mismo mes'
+				set @msgError = 'Todos os registros devem estar dentro do mesmo mês.'
 			end
 
 			if(exists(select IdDoctor from DoctorHorario where IdDoctor = @IdDoctor and NumeroMes = @NumeroMes))
 			begin
-				set @msgError = 'El doctor ya tiene registrado su horario para el mes seleccionado'
+				set @msgError = 'O doutor já tem registrado o seu horário para o mês selecionado.'
 			end
 
 			if(@msgError='')
@@ -417,7 +417,7 @@ begin
 	where IdDoctorHorario = @IdDoctorHorario and Reservado = 1) > 0
 	)
 	begin
-		set @msgError = 'No se puede eliminar porque un turno ya fue reservado'
+		set @msgError = 'Não se pode eliminar porque um turno já foi reservado.'
 	end
 	else
 	begin
@@ -458,13 +458,13 @@ begin
 
 		end
 		else
-			set @msgError = 'El horario no esta disponible'
+			set @msgError = 'O horário não está disponível..'
 
 		commit tran
 	end try
 	begin catch
 		rollback tran
-		set @msgError = 'Error al registrar el horario'
+		set @msgError = 'Erro ao registrar o horário.'
 	end catch
 
 end
@@ -513,7 +513,7 @@ begin
 	end try
 	begin catch
 		rollback tran
-		set @msgError = 'Error al cancelar al cita'
+		set @msgError = 'Erro ao cancelar a consulta.'
 	end catch
 
 end
@@ -579,7 +579,7 @@ begin
 	end try
 	begin catch
 		rollback tran
-		set @msgError = 'No se pudo cambiar estado'
+		set @msgError = 'Não se pode mudar estado.'
 	end catch
 
 end

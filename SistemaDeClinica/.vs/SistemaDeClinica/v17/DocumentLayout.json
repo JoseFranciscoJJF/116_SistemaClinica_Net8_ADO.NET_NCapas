@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\citas\\citasasignadas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\citas\\citasasignadas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\usuario\\usuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\usuario\\usuario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\doctor\\doctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\doctor\\doctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\doctorhorario\\doctorhorario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\doctorhorario\\doctorhorario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\especialidad\\especialidad.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\especialidad\\especialidad.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\historialcita\\historialcita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\historialcita\\historialcita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\especialidad\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\especialidad\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\historialcitas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\historialcitas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\doctorhorario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\doctorhorario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\citas\\nuevacita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\citas\\nuevacita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\wwwroot\\views\\citas\\cita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\wwwroot\\views\\citas\\cita.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\ClinicaData.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicadata\\implementacion\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\ClinicaData.csproj|solutionrelative:clinicadata\\implementacion\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\ClinicaData.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicadata\\implementacion\\doctorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\ClinicaData.csproj|solutionrelative:clinicadata\\implementacion\\doctorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|c:\\users\\josej\\documents\\visual studio 2022\\projects\\work\\sistemaclinica_net8_ado.net_ncapas - c\u00F3pia\\sistemadeclinica\\clinicaweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42E29943-8660-4432-AABD-29EB7E6514F4}|ClinicaWeb\\ClinicaWeb.csproj|solutionrelative:clinicaweb\\views\\shared\\components\\menuusuario\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitasAsignadas.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\CitasAsignadas.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Citas\\CitasAsignadas.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\CitasAsignadas.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Citas\\CitasAsignadas.js",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-05T19:05:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Citas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Citas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Citas\\Index.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Citas\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T18:31:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cita.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Citas\\Cita.js",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T21:39:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T21:05:48.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Usuario\\Usuario.js",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T20:46:50.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistorialCita.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\HistorialCita\\HistorialCita.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\HistorialCita\\HistorialCita.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\HistorialCita\\HistorialCita.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\HistorialCita\\HistorialCita.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T20:45:25.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Especialidad.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Especialidad\\Especialidad.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Especialidad\\Especialidad.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Especialidad\\Especialidad.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Especialidad\\Especialidad.js",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T20:39:33.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Doctor\\Doctor.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Doctor\\Doctor.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Doctor\\Doctor.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Doctor\\Doctor.js",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T20:21:15.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NuevaCita.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\Citas\\NuevaCita.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T20:08:06.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorHorario.js",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\DoctorHorario\\DoctorHorario.js",
+              "RelativeDocumentMoniker": "ClinicaWeb\\wwwroot\\Views\\DoctorHorario\\DoctorHorario.js",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\wwwroot\\Views\\DoctorHorario\\DoctorHorario.js",
+              "RelativeToolTip": "ClinicaWeb\\wwwroot\\Views\\DoctorHorario\\DoctorHorario.js",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T19:47:53.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CitaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:15:56.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwE8AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:13:04.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T17:00:53.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Shared\\Components\\MenuUsuario\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T16:54:42.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\HistorialCitas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\HistorialCitas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\HistorialCitas\\Index.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\HistorialCitas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T23:09:49.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Especialidad\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Especialidad\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Especialidad\\Index.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Especialidad\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T23:03:56.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\DoctorHorario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T22:59:51.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\josej\\Documents\\Visual Studio 2022\\Projects\\Work\\SistemaClinica_Net8_ADO.NET_NCapas - C\u00F3pia\\SistemaDeClinica\\ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T22:28:30.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

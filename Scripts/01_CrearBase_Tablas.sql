@@ -79,7 +79,7 @@ Nombre varchar(50),
 FechaCreacion datetime default getdate()
 )
 go
-
+select * from Cita
 Create table Cita(
 IdCita int primary key identity,
 IdUsuario int references Usuario(IdUsuario),
@@ -104,18 +104,18 @@ go
 
 SET IDENTITY_INSERT Especialidad ON
 insert into Especialidad(IdEspecialidad,Nombre) values
-(1,'Psicología'),
-(2,'Urología'),
-(3,'Pediatría'),
-(4,'Otorrinolaringología'),
-(5,'Oftalmología'),
-(6,'Neurología'),
-(7,'Neumología'),
-(8,'Nutrición'),
-(9,'Medicina General'),
-(10,'Gastroenterología'),
-(11,'Endocrinología'),
-(12,'Dermatología')
+(1,'Psicologia'),
+(2,'Urologia'),
+(3,'Pediatria'),
+(4,'Ortorrinolaringologia'),
+(5,'Oftalmologia'),
+(6,'Neurologia'),
+(7,'Neumologia'),
+(8,'Nutrição'),
+(9,'Medicina Geral'),
+(10,'Gastroenterologia'),
+(11,'Endocrinologia'),
+(12,'Dermatologia')
 SET IDENTITY_INSERT Especialidad OFF
 
 GO
